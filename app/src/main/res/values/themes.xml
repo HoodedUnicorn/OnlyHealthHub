@@ -21,6 +21,5 @@
 
     <style name="Theme.MyApplication.AppBarOverlay" parent="Theme.AppCompat.Light.NoActionBar" />
 
-    <style name="Theme.MyApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-</resources>
-    <!--Your comment-->
+    <style name="Theme.MyApplication.PopupOverlay" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources><!--Your comment-->
