@@ -15,7 +15,7 @@
     <string name="menu_medication">Medication</string>
     <string name="menu_notifications">Notifications</string>
     <string name="menu_menu_calendar">menu_calendar</string>
-    <string name="menu_calendar">menu_calendar</string>
+    <string name="menu_calendar">Calendar</string>
     <string name="van_den_berg">van den Berg</string>
     <string name="thom">Thom</string>
     <string name="wagenlaan_14">Wagenlaan 14</string>
@@ -53,5 +53,4 @@
     <string name="thom_van_den_berg">Thom van den Berg</string>
     <string name="date_of_birth_12_09_2010">Date of Birth: 12–09–2010</string>
 
-</resources>
-    <!--Your comment-->
+</resources><!--Your comment-->
