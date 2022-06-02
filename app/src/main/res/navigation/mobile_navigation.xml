@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.myapplication.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_calendar"
+            app:destination="@id/nav_calendar" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_calendar"
+        android:name="com.example.myapplication.ui.calendar.CalendarFragment"
+        android:label="@string/menu_calendar"
+        tools:layout="@layout/fragment_calendar" >
+        <action
+            android:id="@+id/action_nav_calendar_to_nav_patient_records"
+            app:destination="@id/nav_patient_records" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_patient_records"
+        android:name="com.example.myapplication.ui.patientrecords.PatientRecordsFragment"
+        android:label="@string/menu_patient_records"
+        tools:layout="@layout/fragment_patient_records" >
+        <action
+            android:id="@+id/action_nav_patient_records_to_nav_medication"
+            app:destination="@id/nav_medication" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_medication"
+        android:name="com.example.myapplication.ui.medication.MedicationFragment"
+        android:label="@string/menu_medication"
+        tools:layout="@layout/fragment_medication" >
+        <action
+            android:id="@+id/action_nav_medication_to_nav_notifications"
+            app:destination="@id/nav_notifications" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_notifications"
+        android:name="com.example.myapplication.ui.notifications.NotificationFragment"
+        android:label="@string/menu_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+</navigation>
+    <!--Your comment-->
