@@ -1,5 +1,13 @@
 # The HealthHub App
 
+# Version 2.4 Changelog:
+- build.gradle has a higher minSdk, now 29
+- build.gradle has a lower targetSdk, now 32
+- deploymentTargetDropDown.xml has been added
+- gradle.properties;org.gradle.jvmargs now uses ParallelGC
+
+- PatientRecordsFragments.java has the correct viewmodel
+
 # Version 2.3.3 Changelog:
 
 Due to me being a dumbass and haphazardly changing README.md thinking versions didn't matter.
