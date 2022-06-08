@@ -26,6 +26,7 @@
         android:layout_width="370dp"
         android:layout_height="360dp"
         android:layoutMode="opticalBounds"
+        android:fontFamily="@font/roboto_regular"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

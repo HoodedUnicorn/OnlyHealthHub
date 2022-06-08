@@ -25,6 +25,7 @@
         android:id="@+id/textViewHomeName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_regular"
         android:layout_marginStart="16dp"
         android:layout_marginTop="280dp"
         android:text="@string/thom_van_den_berg"

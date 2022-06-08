@@ -1,88 +1,18 @@
 # The HealthHub App
 
-# Version 2.5 Changelog:
+** FOR CHANGES GO TO CHANGELOG.md SINCE IT WAS MOVED FROM HERE TO GIVE A BETTER README **
 
-- strings.xml
-	- Calendar is no longer menu_calendar
-- themes.xml
-	- Theme changed from AppCompat to Material3
-	- Fixed Notification bar's color
-	
-![b38f6b69-3990-42a1-b5b3-4b0a0b83e3f2](https://user-images.githubusercontent.com/68126304/172701603-cacf3ed5-530b-4efc-8c1c-2a723d66c979.jpg)
+So for school we had to come up with a project, a group initiative mixing our different educations: Nursing, Engineering and ICT. 
+We got a problem that a nursing student encountered on her internship, and we had to device a solution.
 
-# Version 2.4 Changelog:
+So what we are building would I keep confidential, but for our prototype I would build an app.
 
-- build.gradle has a higher minSdk, now 29
-- build.gradle has a lower targetSdk, now 32
-- deploymentTargetDropDown.xml has been added
-- gradle.properties;org.gradle.jvmargs now uses ParallelGC
+Knowing mostly about servers, I researched the best language and went for it: Javascript!
 
-- PatientRecordsFragments.java has the correct viewmodel
+Okay, laughing over. I turned to a friend who recommended Java.
+So me going to Java and learning it.
 
-# Version 2.3.3 Changelog:
+So when building the app, I first thought: "Man, what a mountainous task", but I thought too hard and picked a template.
+When following the changes in CHANGELOG.md you can follow what I did.
 
-Due to me being a dumbass and haphazardly changing README.md thinking versions didn't matter.
-So now Everything is Version 2.3.3.
-
-- Project updates from Version 2.2 to 2.3.3
-- Commented on almost anything
-- Removed Version 2.3.3 Changelog: Duplicate.
-- Changed README.md to 2.3.3.
-- Changed Version Hierarchy from oldest top to newest top
-
-- Changed theme.xml colorPrimary and colorPrimaryVariant from purple 500 to FF03A9F4 in LightMode
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68126304/171287251-4ce4c6ac-10cd-4fac-9189-cb1dce163b04.gif)
-
-
-# Version 2.2 Changelog: 
-
-- Deleted unnecessary Packages:
-  - Gallery.
-  - Slideshow.
-
-- Deleted unnecessary Layouts:
-  - fragment_gallery.xml.
-  - fragment_slideshow.xml.
-
-- Changed nav_header_main.xml:
-  - Default background to android:background="#03A9F4".
-  - Default image to an icon.
-  - Default name to Thom van den Berg.
-
-- Purged some strings in strings.xml
-
-- Changed VersionV2.x Changelog to Version 2.x Changelog
-
-
-# Version 2.1.2 Changelog:                                                                                                                                           
-                                                                                                                                                                    
-- Replaced EditText to TextView in:
-  - fragment_patient_records.xml.                                                                                                                                 
-  - fragment_medication.xml.
-
-- fragment_calendar.xml has no toolbar.
-- fragment_calendar.xml has a centered calendar.
-                                                                                                                                                                    
-- fragment_home.xml has been added info.
-- strings.xml has been updated.
-![HealthHubAppV2 1 2DarkMode_Trim3](https://user-images.githubusercontent.com/68126304/171278746-901a6ace-e1c7-4c25-9c46-d0ec17832163.gif)
-
-
-
-# Version 2.1.1 Changelog:
-                                                                                                                                                                    
-                                                                                                                                                                    
-- Different accent color from FF6200EE to FF03A9F4.
-- Linked fragments to their actual fragments.
-- UI packages which include. 
-    - Fragment.                                                                                                                                                      
-    - ViewModel.
-- Fragment_patient_records.xml has actual data in it.
-- Notifications nav has a destination.
-- More information given in README.md.
-
-# Version 2.1                                                                                                                                                         
-                                                                                                                                                                    
-This is the correct version. I didn't know what I was doing with the other 2 repositories that I totally screwed up. But I made this one and this one is correct.
-
+I hope you had a great time reading.
