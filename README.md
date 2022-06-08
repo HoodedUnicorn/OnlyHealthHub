@@ -7,7 +7,7 @@
 - themes.xml
 	- Theme changed from AppCompat to Material3
 	- Fixed Notification bar's color
-	- 
+	
 ![b38f6b69-3990-42a1-b5b3-4b0a0b83e3f2](https://user-images.githubusercontent.com/68126304/172701603-cacf3ed5-530b-4efc-8c1c-2a723d66c979.jpg)
 
 # Version 2.4 Changelog:
