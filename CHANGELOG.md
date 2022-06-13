@@ -1,5 +1,18 @@
 # The HealthHub App Changelog
 
+# Version 2.6 Changelog:
+
+So I tried creating a login and register with a database, buuuut that didn't work. So I will do it separate. For now a login in and register page are created.
+But they do not work, at all. Here's to doing hours of work that will never work.
+- Created a login page
+- Created a register page
+- made them available on the activity_main_drawer.xml with visible="false" tag
+- Created LoginFragment.java
+- Created RegisterFragment.java
+- nav_header_main.xml textview textappearance updated from TextAppearance.AppCompat.Body1 to TextAppearance.Material3.TitleMedium.
+
+![Screenshot_20220613-232112_HealthHubAppV2 (1)](https://user-images.githubusercontent.com/68126304/173448112-dc93f3e6-bf37-4b11-92f4-e7765b1e0193.jpg)
+
 # Version 2.5 Changelog:
 
 - strings.xml
