@@ -10,6 +10,7 @@ But they do not work, at all. Here's to doing hours of work that will never work
 - Created LoginFragment.java
 - Created RegisterFragment.java
 - nav_header_main.xml textview textappearance updated from TextAppearance.AppCompat.Body1 to TextAppearance.Material3.TitleMedium.
+- Forgot to mention that DarkMode has been disabled due to viewing issues
 
 ![Screenshot_20220613-232112_HealthHubAppV2 (1)](https://user-images.githubusercontent.com/68126304/173448112-dc93f3e6-bf37-4b11-92f4-e7765b1e0193.jpg)
 
