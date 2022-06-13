@@ -53,13 +53,13 @@
     <fragment
         android:id="@+id/loginFragment"
         android:name="com.example.myapplication.LoginFragment"
-        android:label="fragment_login"
-        tools:layout="@layout/fragment_login" />
+        android:label="@string/login"
+        tools:layout="@layout/fragment_login"/>
     <fragment
         android:id="@+id/registerFragment2"
         android:name="com.example.myapplication.RegisterFragment"
-        android:label="fragment_register"
-        tools:layout="@layout/fragment_register" />
+        android:label="@string/register"
+        tools:layout="@layout/fragment_register"/>
 
 </navigation>
     <!--Your comment-->
