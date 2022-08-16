@@ -1,5 +1,7 @@
 # The HealthHub App
 
+*** DISCLAIMER: THIS PROJECT IS NOW COMPLETED(WITH SOME MINOR BUGS) AND WILL NOT BE UPDATED ***
+
 ** FOR CHANGES GO TO CHANGELOG.md SINCE IT WAS MOVED FROM HERE TO GIVE A BETTER README **
 
 So for school we had to come up with a project, a group initiative mixing our different educations: Nursing, Engineering and ICT. 
